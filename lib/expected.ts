@@ -95,6 +95,8 @@ export const EXPECTED_HASHES: Record<string, string> = {
     '2a9b91485485cf801629e8a07ee9a9f6e44b9ea38e2adc81728c14840cd74dd1',
   'node-v16.15.0-win-x64':
     'b47e0bec43626816d554d6d50d289131ac86a6578da7dd6916208f34a885aa97',
+  'node-v16.15.1-win-x86':
+    'c51c382f399e09d0e1fb72ab665149b5ff1ed9ace7271696cc51f818104cbe2a',
 
   // 882b49630f108374ad637506e1d38325037859ec
   // alpine: https://github.com/jesec/pkg-fetch/actions/runs/2265963455
@@ -142,6 +144,8 @@ export const EXPECTED_HASHES: Record<string, string> = {
     '62fa643bab077f6019097b5523467e95eef5b9de9aee38cf542f9d5baf5a0906',
   'node-v18.1.0-win-x64':
     'f60ece45b5e77288d3698d9f15d705f835bce5508fb5a1f7bd8402fd5cacf263',
+  'node-v18.4.0-win-x86':
+    '776d7de9150265aac16a442935fc0a0a67cc3eabbf28f8aeea6dc6b2bf4433e6',
 
   // f0e3aec71bdd9597d9e679a89ea16bc7fecf6e9e
   // alpine: https://github.com/jesec/pkg-fetch/actions/runs/2265963455
