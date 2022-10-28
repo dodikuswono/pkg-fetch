@@ -11,7 +11,7 @@ jobs:
       fail-fast: false
       matrix:
         target-node: [18]
-        target-arch: [x86]
+        target-arch: [x64]
 
     steps:
       - uses: actions/checkout@v2
